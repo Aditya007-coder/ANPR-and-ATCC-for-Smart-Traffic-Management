@@ -16,7 +16,7 @@ Follow the below steps to succesfully deploy this project :-
 To deploy this project, first go to your VsCode terminal and type : 
 
 ```bash
-  git clone https://github.com/peacefularmaan/Smart_Traffix.git
+  git clone https://github.com/Aditya007-coder/SmartTraffic.git
 ```
 
 ### Step2:
